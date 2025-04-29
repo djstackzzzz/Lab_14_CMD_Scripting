@@ -1,0 +1,6 @@
+This is a simple text file.
+It contains a few lines.
+Each line has some words.
+
+The purpose is to test the Java file scanner program.
+Good luck with Lab 14!
